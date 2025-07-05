@@ -7,9 +7,15 @@ const projects = [
   },
   {
     title: "Self-Portfolio Website",
-    description: "This React + Vite portfolio website.",
+    description: "This project in React + Vite portfolio website.",
     tech: ["React", "Vite", "JavaScript"],
-    link: "https://github.com/tuo-username/portfolio",
+    link: "https://github.com/Nagiecu/nagiecu.github.io.git",
+  },
+  {
+    title: "Erasmus Torino",
+    description: "Website made in Wordpress.",
+    tech: ["Wordpress"],
+    link: "https://www.erasmustorino.it/",
   },
 ];
 

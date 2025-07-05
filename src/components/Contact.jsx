@@ -14,7 +14,7 @@ export default function Contact() {
       <p>
         Facebook:{" "}
         <a href="https://www.facebook.com/share/1Au6yzjJgJ/?mibextid=wwXIfr" target="_blank" rel="noreferrer">
-          cnc.gian
+          Gian Manuel Cuenca
         </a>
       </p>
     </div>
