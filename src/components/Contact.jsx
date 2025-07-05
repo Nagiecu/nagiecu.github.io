@@ -11,6 +11,12 @@ export default function Contact() {
           cnc.gian
         </a>
       </p>
+      <p>
+        Facebook:{" "}
+        <a href="https://www.facebook.com/share/1Au6yzjJgJ/?mibextid=wwXIfr" target="_blank" rel="noreferrer">
+          cnc.gian
+        </a>
+      </p>
     </div>
     </section>
   );
