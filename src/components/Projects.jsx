@@ -1,21 +1,24 @@
 const projects = [
   {
     title: "La Vendetta di Mora",
-    description: "A short Hack&Slash game,",
+    description: "A short Hack&Slash game.",
     tech: ["Unity", "C#"],
     link: "https://github.com/tuo-username/unity-adventure-game",
+    //video: "/videos/mora-preview.mp4", // aggiunto
   },
   {
     title: "Self-Portfolio Website",
     description: "This project in React + Vite portfolio website.",
     tech: ["React", "Vite", "JavaScript"],
     link: "https://github.com/Nagiecu/nagiecu.github.io.git",
+    //video: "/videos/portfolio-preview.mp4", // aggiunto
   },
   {
     title: "Erasmus Torino",
     description: "Website made in Wordpress.",
     tech: ["Wordpress"],
     link: "https://www.erasmustorino.it/",
+    //video: null, // nessun video
   },
 ];
 
