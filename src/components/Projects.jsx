@@ -1,7 +1,7 @@
 const projects = [
   {
-    title: "Unity 3D Adventure Game",
-    description: "A third-person adventure game made with Unity, featuring exploration and puzzles.",
+    title: "La Vendetta di Mora",
+    description: "A short Hack&Slash game,",
     tech: ["Unity", "C#"],
     link: "https://github.com/tuo-username/unity-adventure-game",
   },
